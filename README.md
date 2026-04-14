@@ -9,7 +9,6 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 📚 Seguindo o roadmap **Python** da [TechGuide.sh (Alura)](https://techguide.sh/pt-BR/path/python/)
 - 🌎 Inglês: **Nível Intermediário**
 - 🎯 Foco em **Back-end** — lógica, APIs e banco de dados
 - 💼 Aberto a **oportunidades** e novos desafios
@@ -56,66 +55,6 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 <a href="https://github.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 </a>
-
----
-
-### 📈 Roadmap de Estudos (TechGuide.sh — Python)
-
-#### 🔧 Fundamentos de Infraestrutura
-- [x] Git e GitHub — Fundamentos
-- [ ] HTTP — Fundamentos
-- [ ] JSON
-- [ ] Linha de Comando — Fundamentos
-- [ ] Cloud — Fundamentos
-- [ ] SQL — Fundamentos
-
-#### 🐍 Python — Nível 1
-- [x] Lógica de Programação
-- [x] Python — Fundamentos
-- [ ] Conceitos de Orientação a Objetos
-- [ ] Estruturas de Dados
-- [ ] Python — Coleções
-- [ ] Python — Testes
-- [ ] Python — Comunicação com APIs
-
-#### 🚀 Python — Nível 2
-- [ ] Flask
-- [ ] Python — Orientação a Objetos Avançada
-- [ ] Django
-- [ ] Django Rest Framework
-- [ ] Python — MVC e MTV
-- [ ] Python — Lambdas e Closures
-
-#### 🏆 Python — Nível 3
-- [ ] Arquitetura de Microsserviços
-- [ ] Contêineres
-- [ ] Python — Tipagem Estática
-- [ ] Python — Geradores
-- [ ] Python — Assíncrono
-
-#### ✅ Boas Práticas
-- [ ] SOLID
-- [ ] Clean Architecture
-- [ ] Design Patterns
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=charllesrick&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=charllesrick&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
