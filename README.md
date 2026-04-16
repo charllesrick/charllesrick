@@ -1,6 +1,6 @@
 # Olá, eu sou o Charlles Rick! 👋
 
-### 🎓 Estudante de ADS | 🐍 Desenvolvedor Python | 🌎 Inglês Intermediário
+### 🎓 Estudante de ADS | 🐍 Desenvolvedor Python | 🌎 Inglês Técnico Intermediário
 
 Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técnica em back-end e desenvolvimento Python.
 
@@ -9,8 +9,8 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técn
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 🌎 Inglês: **Nível Intermediário**
-- 🎯 Foco em **Back-end** — lógica, APIs e banco de dados
+- 🌎 Inglês técnico: **Nível Intermediário**
+- 🎯 Foco em **Back-end** — lógica, APIs, banco de dados e AI's
 - 💼 Aberto a **oportunidades** e novos desafios
 
 ---
