@@ -1,57 +1,26 @@
-# Olá, eu sou o Charlles Rick! 👋
+# Charlles Rick
 
-### 🎓 Estudante de ADS | 🐍 Desenvolvedor Python | 🌎 Inglês Técnico
+`Estudante de ADS` · `Estagiário de Suporte TI` · `Sistemas & Redes`
 
-Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução técnica em back-end e desenvolvimento Python.
+Atualmente atuo como estagiário no Suporte de TI (Service Desk), lidando com infraestrutura, suporte técnico e resolução de chamados. No tempo livre, gerencio meu próprio **Homelab** com Proxmox VE, contêineres Docker, automações no n8n e serviços de rede como AdGuard.
 
----
-
-### 🚀 Sobre mim
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 🌎 Inglês técnico: **Nível Intermediário**
-- 🎯 Foco em **Back-end** — lógica, APIs, banco de dados e AI's
-- 💼 Aberto a **oportunidades** e novos desafios
+**Agora**
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+* 💼 Estagiário de Suporte de TI (Service Desk)
+* 🛠️ Mantendo Homelab (Proxmox, Docker, n8n, AdGuard)
+* 📜 Google IT Support Certificate *(3/5 concluídos)*
+* 🎯 Estudando para **AWS Cloud Practitioner** & **Azure AZ-900**
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Ferramentas & Tecnologias
 
-#### ● Back-end
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-</a>
-
-#### ● Banco de Dados
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-</a>
-
-#### ● Front-end Básico
-
-  <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-  <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-  <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <br><br>
-
-#### ● Ferramentas & IDEs
-
-  <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="45" height="45"/>
-  <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-
-<br><br>
-
----
-
-### 📬 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlles-rick/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charllesriquee@gmail.com)
-
----
-
-*Este perfil reflete minha jornada diária de estudos e prática de código. Sinta-se à vontade para explorar meus repositórios!*
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Git" width="36" height="36"/>
+</p>
